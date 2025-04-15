@@ -1,5 +1,5 @@
-Components found via Digikey.
+Components found via **Digikey**.
 
-The Equation used to calculate resistor value needed was: R = (V_in - V_frwd)/I. V_in was determined from the connectors datasheet while both V_frwd & I could be found from the LED sheet.
+The Equation used to calculate the resistor value needed was: $` R = {V_{in} - V_{frwd} \over I} `$. *V<sub>in</sub>* was determined from the connectors datasheet while both *V<sub>frwd</sub>* & $I$ could be found from the LED sheet.
 
-Digikey component list can be found on my digikey account (im not linking).
+The list of components used in this project can be found in this [Digikey List](https://www.digikey.com/en/mylists/list/WOLOCR9GBW).
